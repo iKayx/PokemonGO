@@ -2,6 +2,10 @@
 
 Some useful Links and Homepages for PokemonGO
 
+Server Status:
+<br/>
+http://www.mmoserverstatus.com/pokemon_go
+
 Pokemon Moves DPS Sheet:
 <br/>
 https://docs.google.com/spreadsheets/d/1vj1nsbsIE7FVPFWE-ZRFNgoszfgfDJ1MiT81d8XbPug/htmlview#
@@ -14,6 +18,10 @@ https://img.pokemondb.net/images/typechart.png
 CP per Power Up List:
 <br/>
 http://imgur.com/FVmk0cw
+
+Level Up Cp Calculator:
+<br/>
+http://pogotoolkit.com/
 
 Max CP List:
 <br/>
