@@ -21,7 +21,7 @@ http://pokemongo.gamepress.gg/pokemon-list
 
 Locate any pokemon near your/location:
 <br/>
-https://pokevision.com/#/@49.413437250691636,8.709808588027954
+https://pokevision.com/#/@49.413437250691636,8.709808588027954<br/>
 https://github.com/iKayx/pgoapi
 
 Rarity List:
