@@ -2,8 +2,11 @@
 
 Some useful Links and Homepages for PokemonGO
 
-Server Status:
+% Berechnungen:<br/>
+https://pokeassistant.com/
 <br/>
+Server Status:
+<br/><br/>
 http://www.mmoserverstatus.com/pokemon_go
 
 Pokemon Moves DPS Sheet:
